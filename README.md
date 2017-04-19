@@ -11,6 +11,7 @@ Resources for FiveM allowing the user to have a job (Jobs System) and receive a 
 
 - Adding a point (blip) to change jobs, several points can be added
 - Addition of several trades in the selection menu, you can add them thanks to a table
+- SQL Script to integrate
 
 **Paycheck v1.0 or Paycheck v2.0**
 
@@ -22,15 +23,14 @@ Resources for FiveM allowing the user to have a job (Jobs System) and receive a 
  | Paycheck depending on job user  | No, same value for everyone | Yes |
  | SQL Script to integrate  | No required | Yes |
 
+**Install Jobs System v1.0**
 
-**Install v1.0**
+[Wiki Page](https://github.com/PandaBasketteur/Jobs-System-and-Paycheck/wiki/Install-Jobs-System-v1.0)
 
-[Wiki Page](https://github.com/PandaBasketteur/Paycheck/wiki/Install-Paycheck-v1.0)
+**Install Paycheck v1.0**
 
-**Install v.2.0**
+[Wiki Page](https://github.com/PandaBasketteur/Jobs-System-and-Paycheck/wiki/Install-Paycheck-v1.0)
 
-[Wiki Page](https://github.com/PandaBasketteur/Paycheck/wiki/Install-Paycheck-v2.0)
-  
-# Jobs System v1.0 + Paycheck v2.0 (Version Française)
+**Install Paycheck v.2.0**
 
-  Ressources pour FiveM permettant de recevoir un chèque de paie + salaire de son métier toutes les 10 minutes 
+[Wiki Page](https://github.com/PandaBasketteur/Jobs-System-and-Paycheck/wiki/Install-Paycheck-v2.0) 
