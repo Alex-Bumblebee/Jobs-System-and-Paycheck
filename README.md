@@ -1,38 +1,36 @@
-# Paycheck
-  EN :
-Resources for FiveM to receive a paycheck depending on job user every X (10 per default) minutes
+# Jobs System v1.0 + Paycheck v2.0 (English Version)
+
+Resources for FiveM allowing the user to have a job (Jobs System) and receive a paycheck every 10 minutes (Paycheck)
 
 **Required**
 
 - EssentialMode
 - es_freeroam
 
-**Features v.1.0**
+**Job System v1.0 features**
 
-- Sends a paycheck every 10 minutes
-- Sends a notification to the user
+- Adding a point (blip) to change jobs, several points can be added
+- Addition of several trades in the selection menu, you can add them thanks to a table
 
-**Features v.2.0 in addition to v.1.0**
+**Paycheck v1.0 or Paycheck v2.0**
 
-- Paycheck depending on job user
-- SQL Script to integrate
+ |                 | Paychek v1.0                       | Paychek v2.0               |
+ ----------------- | ---------------------------- | ------------------
+ | Biggest advantage | No need for anything else to work | Different pay for each group |
+ | Sends a paycheck every 10 min | Yes            | Yes |
+ | Sends a notification to the user | Yes           | Yes |
+ | Paycheck depending on job user  | No, same value for everyone | Yes |
+ | SQL Script to integrate  | No required | Yes |
 
-**Install v.1.0**
 
-- Download resources on github
-- Extract the file : Paycheck-v1.0.zip
-- Choose either FR version or EN version and add it to the resources folder
-- Add '- paycheck_fr' or '- paycheck_en' to AutoStartResources in citmp-server.yml
-- Its goooooooood
+**Install v1.0**
+
+[Wiki Page](https://github.com/PandaBasketteur/Paycheck/wiki/Install-Paycheck-v1.0)
 
 **Install v.2.0**
 
-- Download resources on github
-- Choose either FR version or EN version and add it to the resources folder
-- Execute Script SQL : job.sql in your database
-- Execute Script SQL : sample.sql (EN version) or jeu_essai (FR version) if you wish but you must add the first job
-- Add '- paycheck_fr' or '- paycheck_en' to AutoStartResources in citmp-server.yml
-- Its goooooooood
+[Wiki Page](https://github.com/PandaBasketteur/Paycheck/wiki/Install-Paycheck-v2.0)
   
-FR :
+# Jobs System v1.0 + Paycheck v2.0 (Version Française)
+
   Ressources pour FiveM permettant de recevoir un chèque de paie + salaire de son métier toutes les 10 minutes 
