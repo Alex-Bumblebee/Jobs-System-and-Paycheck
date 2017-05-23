@@ -1,4 +1,4 @@
-# Jobs System v1.0 + Paycheck v2.0 (English Version)
+# Jobs System v2.0 + Paycheck v2.0 (English Version)
 
 Resources for FiveM allowing the user to have a job (Jobs System) and receive a paycheck every 10 minutes (Paycheck)
 
@@ -7,11 +7,13 @@ Resources for FiveM allowing the user to have a job (Jobs System) and receive a 
 - EssentialMode
 - es_freeroam
 
-**Job System v1.0 features**
+**Job System v2.0 features**
 
 - Adding a point (blip) to change jobs, several points can be added
 - Addition of several trades in the selection menu, you can add them thanks to a table
 - SQL Script to integrate
+- Add UI
+- Add a better menu
 
 **Paycheck v1.0 or Paycheck v2.0**
 
@@ -23,9 +25,9 @@ Resources for FiveM allowing the user to have a job (Jobs System) and receive a 
  | Paycheck depending on job user  | No, same value for everyone | Yes |
  | SQL Script to integrate  | No required | Yes |
 
-**Install Jobs System v1.0**
+**Install Jobs System v2.0**
 
-[Wiki Page](https://github.com/PandaBasketteur/Jobs-System-and-Paycheck/wiki/Install-Jobs-System-v1.0)
+[Wiki Page](https://github.com/PandaBasketteur/Jobs-System-and-Paycheck/wiki/Install-Jobs-System-v2.0)
 
 **Install Paycheck v1.0**
 
