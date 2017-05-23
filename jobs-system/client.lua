@@ -42,10 +42,6 @@ local firstspawn = 0
 
 ---------------------------------- FUNCTIONS ----------------------------------
 
-local function LocalPed()
-return GetPlayerPed(-1)
-end
-
 function drawTxt(text,font,centre,x,y,scale,r,g,b,a)
   SetTextFont(font)
   SetTextProportional(0)
