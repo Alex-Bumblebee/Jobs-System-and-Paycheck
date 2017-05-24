@@ -1,6 +1,6 @@
 local jobmenu = {
   opened = false,
-  title = "Pôle Emploi",
+  title = "Pôle Emploi", -- ENGLISH : "Employment Center"
   currentmenu = "main",
   lastmenu = nil,
   currentpos = nil,
@@ -20,9 +20,9 @@ local jobmenu = {
       title = "CHOISIR UN METIER", -- ENGLISH : Choise your job
       name = "main",
       buttons = {
-        {title = "Mineur", name = "Mineur", id = 4},
-        {title = "Pêcheur", name = "Pêcheur", id = 7},
-        {title = "Chauffeur de taxi", name = "Taxi", id = 5},
+        {title = "Mineur", name = "Mineur", id = 4}, -- ENGLISH : Minor
+        {title = "Pêcheur", name = "Pêcheur", id = 7}, -- ENGLISH : Fisherman
+        {title = "Chauffeur de taxi", name = "Taxi", id = 5}, -- ENGLISH : Taxi Driver
         -- EXAMPLE : {title = "Name Job", name = "Name Short", id = ID in base SQL},
       }
     },
