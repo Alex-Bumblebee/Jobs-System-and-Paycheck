@@ -1,13 +1,14 @@
-# Jobs System v2.0 + Paycheck v2.0 (English Version)
+# Jobs System v2.1 + Paycheck v2.0 (English Version)
 
 Resources for FiveM allowing the user to have a job (Jobs System) and receive a paycheck every 10 minutes (Paycheck)
 
 **Required**
 
-- EssentialMode
-- es_freeroam
+- EssentialMode (2.X SQL Version)
+- [MYSQL Async](https://github.com/brouznouf/fivem-mysql-async)
+- Optional : es_freeroam (For notification)
 
-**Job System v2.0 features**
+**Job System v2.1 features**
 
 - Adding a point (blip) to change jobs, several points can be added
 - Addition of several trades in the selection menu, you can add them thanks to a table
