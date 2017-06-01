@@ -26,7 +26,7 @@ Resources for FiveM allowing the user to have a job (Jobs System) and receive a 
  | Paycheck depending on job user  | No, same value for everyone | Yes |
  | SQL Script to integrate  | No required | Yes |
 
-**Install Jobs System v2.0**
+**Install Jobs System v2.1**
 
 [Wiki Page](https://github.com/PandaBasketteur/Jobs-System-and-Paycheck/wiki/Install-Jobs-System-v2.0)
 
